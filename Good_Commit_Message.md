@@ -35,25 +35,25 @@ You may use Text or emojis.
 
 # Option 2
 
-➕ :heavy_plus_sign: when adding a file or implementing a feature
-🔨 :hammer: when fixing a bug or issue
-💚 :green_heart: when improving code or comments
-⚡ :zap: when improving performance
-📜 :scroll: when updating docs or readme
-🔑 :key: when dealing with security
-🔁 :repeat: when updating dependencies or data
-✅ :white_check_mark: when a new release was built
-👕 :shirt: when refactoring or removing linter warnings
-❌ :x: when removing code or files
+* ➕ :heavy_plus_sign: when adding a file or implementing a feature
+* 🔨 :hammer: when fixing a bug or issue
+* 💚 :green_heart: when improving code or comments
+* ⚡ :zap: when improving performance
+* 📜 :scroll: when updating docs or readme
+* 🔑 :key: when dealing with security
+* 🔁 :repeat: when updating dependencies or data
+* ✅ :white_check_mark: when a new release was built
+* 👕 :shirt: when refactoring or removing linter warnings
+* ❌ :x: when removing code or files
 
 # Option 3
 
-🎉 :tada: initial commit 🎉
-🚀 :rocket: [Add] when implementing a new feature
-🔨 :hammer: [Fix] when fixing a bug or issue
-🎨 :art: [Refactor] when refactor/improving code
-🚧 :construction: [WIP]
-📝 :pencil: [Minor] Some small updates
+* 🎉 :tada: initial commit 🎉
+* 🚀 :rocket: [Add] when implementing a new feature
+* 🔨 :hammer: [Fix] when fixing a bug or issue
+* 🎨 :art: [Refactor] when refactor/improving code
+* 🚧 :construction: [WIP]
+* 📝 :pencil: [Minor] Some small updates
 
 
 You may use other emoji or text to mark your commits but try to make them as clear as you can for other to view and understand.
