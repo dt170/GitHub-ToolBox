@@ -1,22 +1,24 @@
 # How to write a good commit message 
+inspired from [chrissiemhrk](https://dev.to/chrissiemhrk/git-commit-message-5e21)
+
+<b>What is a commit?</b> 
+
 A commit message is a short description of the changes you've made to a file added before committing the changes.
+
+<b>What is a good commit?</b>
 
 Good commit messages are important not only for others who you may be collaborating on the project but also for you, 
 to keep track of all your commits and knowing exactly what changes where maybe during that particular commit.
 
 
-The body is used to explain what changes you made and why you made them. Not all commits are complex enough that they need a body,
-especially if you are working on a personal project alone, and as such writing a body is optional.
-
-
 ## Template:
- __________________________________________________________________
-| <Subject> feat: Create new navigation bar                        |
-|__________________________________________________________________|
-|                                                                  |
-|                   <Write the Description HERE>                   |
-|                                                                  |
-|__________________________________________________________________|
+
+| Subject | feat: Create new navigation bar  | 
+| ------- | ------- |
+| <b>Description</b> | explain what changes you made and why you made them |
+
+<b>Note:</b> Not all commits are complex enough that they need a Description, 
+especially if you are working on a personal project alone, and as such writing a body is optional.
 
 ### Subject options
 You may use Text or emojis. 
@@ -54,5 +56,5 @@ You may use Text or emojis.
 📝 :pencil: [Minor] Some small updates
 
 
-
+You may use other emoji or text to mark your commits but try to make them as clear as you can for other to view and understand.
 
