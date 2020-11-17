@@ -6,4 +6,8 @@ create in the open source community for the community.
 
 ## How to:
 
-[Good Commit Message](https://github.com/dt170/Wiki-GitHub/blob/main/Good_Commit_Message.md) - Find your template for the best commit message.
+* [Good Commit Message](https://github.com/dt170/Wiki-GitHub/blob/main/Good_Commit_Message.md) - Find your template for the best commit message.
+
+## List of Widgets 
+
+* [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - show user statistics total stars,pulls,commits,issues etc. 
