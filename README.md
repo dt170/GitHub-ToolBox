@@ -12,4 +12,4 @@ create in the open source community for the community.
 
 * [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - show user statistics total stars,pulls,commits,issues etc. 
 
-* [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Find all github emoji in one place.
+* [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Find all github emoji in one place.
