@@ -9,7 +9,9 @@ Cut to the chase:
 * Now you unlocked github secret readme , Don't forget to add README.md .
 * You may edit as you like adding gifs, widgets and more !
 
+Check my profile:
 [My profile](https://github.com/dt170/dt170/blob/main/README.md)
 
-(Awesome-Profile-README-templates)https://github.com/kautukkundan/Awesome-Profile-README-templates[https://github.com/kautukkundan/Awesome-Profile-README-templates]
+Check others profile:
+[Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates[https://github.com/kautukkundan/Awesome-Profile-README-templates)
 
