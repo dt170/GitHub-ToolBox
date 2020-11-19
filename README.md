@@ -1,8 +1,18 @@
-# GitHub ToolBox
-WikiGithub is a place to find all usefull repositories,tips and tricks.
-create in the open source community for the community.
+<p align="center">
+<img src=https://github.com/dt170/GitHub-ToolBox/blob/main/toolbox.png>
+</p>
+<h1 align="center"> GitHub ToolBox </h1>
 
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<p align="center">
+GitHub ToolBox helps you find all usefull repositories, tips and tricks.
+</p>
+
+<p align="center">
+create in the open source community for the community.
+</p>
+<p align="center">
+<img src=https://badges.frapsoft.com/os/v2/open-source.png?v=103/>
+</p>
 
 ## How to:
 
