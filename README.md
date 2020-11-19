@@ -14,6 +14,11 @@ create in the open source community for the community.
 <img src=https://badges.frapsoft.com/os/v2/open-source.png?v=103/>
 </p>
 
+## Contribution
+Please feel free to contribute ,  
+> Share your knowledge. <br>
+> It is a way to achieve imortality.  -Dalai Lama-
+
 ## How to:
 
 * [Good Commit Message](https://github.com/dt170/Wiki-GitHub/blob/main/Good_Commit_Message.md) - Find your template for the best commit message.
