@@ -21,7 +21,9 @@ to keep track of all your commits and knowing exactly what changes where maybe d
 especially if you are working on a personal project alone, and as such writing a body is optional.
 
 ### Subject options
-You may use Text or emojis. 
+You may use Text or emojis, An easy way to put the emoji is using shortcuts:
+* For WINDOWS user Press `WIN + ;` 
+* For MAC user Press `Command + Control + Space`
 
 # Option 1
 
