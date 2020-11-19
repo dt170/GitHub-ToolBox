@@ -23,7 +23,7 @@ Please feel free to contribute ,
 
 * [Good Commit Message](https://github.com/dt170/Wiki-GitHub/blob/main/Good_Commit_Message.md) - Find your template for the best commit message.
 
-* [Special Profile Readme](https://github.com/dt170/Wiki-GitHub/blob/main/Special_Profile_Readme) - Create your own unique profile 
+* [Special Profile Readme](https://github.com/dt170/GitHub-ToolBox/blob/main/Special_Profile_Readme.md) - Create your own unique profile 
 
 ## List of Widgets 
 
