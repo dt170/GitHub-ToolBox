@@ -4,7 +4,7 @@
 <h1 align="center"> GitHub ToolBox </h1>
 
 <p align="center">
-GitHub ToolBox helps you find all usefull repositories, tips and tricks.
+GitHub ToolBox helps you find all useful repositories, tips and tricks.
 </p>
 
 <p align="center">
