@@ -32,3 +32,7 @@ Please feel free to contribute ,
 * [Emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - Find all github emoji in one place.
 
 * [Github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - Keep track on profile views 
+
+## Open source
+
+* [appwrite](https://github.com/appwrite/appwrite) - Appwrite is an end-to-end backend server for Web, Mobile, Native and more!
