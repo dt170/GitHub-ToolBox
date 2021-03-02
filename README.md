@@ -24,7 +24,9 @@ Please feel free to contribute ,
 * [Good Commit Message](https://github.com/dt170/Wiki-GitHub/blob/main/Good_Commit_Message.md) - Find your template for the best commit message.
 
 * [Special Profile Readme](https://github.com/dt170/GitHub-ToolBox/blob/main/Special_Profile_Readme.md) - Create your own unique profile 
-
+ 
+* [Git Hooks](https://githooks.com/) - Scripts that Git executes before or after events such as: commit, push, and receive. 
+ 
 ## List of Widgets 
 
 * [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - show user statistics total stars,pulls,commits,issues etc. 
