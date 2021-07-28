@@ -42,3 +42,5 @@ Please feel free to contribute ,
 ## Open source
 
 * [appwrite](https://github.com/appwrite/appwrite) - Appwrite is an end-to-end backend server for Web, Mobile, Native and more!
+
+* [scrapy](https://github.com/scrapy/scrapy) - Scrapy is a fast high-level web crawling and web scraping framework!
