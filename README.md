@@ -44,3 +44,5 @@ Please feel free to contribute ,
 * [appwrite](https://github.com/appwrite/appwrite) - Appwrite is an end-to-end backend server for Web, Mobile, Native and more!
 
 * [scrapy](https://github.com/scrapy/scrapy) - Scrapy is a fast high-level web crawling and web scraping framework!
+
+* [angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5!
